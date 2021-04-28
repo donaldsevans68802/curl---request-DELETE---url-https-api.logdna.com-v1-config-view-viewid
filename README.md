@@ -1,0 +1,1 @@
+# curl---request-DELETE---url-https-api.logdna.com-v1-config-view-viewid
